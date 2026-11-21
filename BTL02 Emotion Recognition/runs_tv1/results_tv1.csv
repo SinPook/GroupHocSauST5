@@ -1,0 +1,6 @@
+code,aug,class_weight,best_epoch,val_loss,val_acc,test_acc,minutes
+A1,none,Không,13,1.069,0.6105,0.6222,7.3
+A2,flip,Không,15,1.0297,0.6144,0.6308,7.9
+A3,flip_rot,Không,38,0.9882,0.6403,0.6447,15.2
+A4,full,Không,56,0.9689,0.6395,0.65,20.8
+A5,full,Có,44,0.9877,0.6266,0.6342,17.2
